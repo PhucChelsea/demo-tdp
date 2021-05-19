@@ -1,0 +1,9 @@
+ul.hobby_list{
+
+}
+ul.hobby_list > li {
+    transition: all .30s ease-in-out 0s;
+}
+ul.hobby_list > li.active {
+    color: deeppink;
+}
